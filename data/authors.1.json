@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Marijn Haverbeke",
+        "id": "57b6c905-be87-4314-b45d-cb4ac8eb2db6",
+        "books": ["9a822ee8-2a7f-4087-b490-0cb1fcc0c908"] },
+    {
+        "name": "Addy Osmani",
+        "id": "3ca2dd6c-c769-4aee-b024-ec0aff462345",
+        "books": ["be9e9195-7abf-4bc9-8f44-1424b474dd4b"] },
+    {
+        "name": "Axel Rauschmayer",
+        "id": "c7389f53-101f-4736-a15e-2c45e7dc8c08", 
+        "books": ["b498c7f3-ac16-434e-900e-7091816bd021"] },
+    {
+        "name": "Eric Elliott",
+        "id": "b305ad1f-8295-4684-80d4-601c91752934",
+        "books": ["194fef99-9451-43cf-b85b-0d14b4ee8c3e"] },
+    {   
+        "name": "Nicholas Zakas",
+        "id": "03d9bb85-da72-4894-b39f-2ae5cca8f7ac",
+        "books": ["c87b36af-9eef-416c-a087-f3dd3b211cf2"] },
+    {
+        "name": "Kyle Simpson",
+        "id": "9430cc1c-7e58-4e30-8382-2c08d827ff1a",
+        "books": ["c95b9e81-0ef7-4e6a-89a8-2b0680676d35"] },
+    {
+        "name": "Richard Silverman",
+        "id": "cde6c1a3-48a7-4223-ae9a-9017566f4ace",
+        "books": ["287f5341-1999-4fbf-a5e4-0b296882369f"] },
+    {
+        "name": "Glenn Block",
+        "id": "b1b78859-7f48-4c32-b886-d77238dbc639",
+        "books": ["d95fee2d-80d7-433e-930d-1800fbf65ce2"] }
+]

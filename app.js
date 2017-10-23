@@ -15,7 +15,7 @@ const booksRoutes = require('./routes/books.routes');
 app.use('/books', booksRoutes);
 
 const authorsRoutes = require('./routes/authors.routes');
-app.use('/books/:bookId/authors', authorsRoutes);
+app.use('/authors', authorsRoutes);
 
 
 
